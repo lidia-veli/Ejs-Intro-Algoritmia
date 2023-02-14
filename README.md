@@ -1,6 +1,6 @@
 link repositorio: https://github.com/lidia-veli/Ejs-Intro-Algoritmia
   
-# Ejercicios de Intrtoducción a la Algoritmia
+# Ejercicios de Introducción a la Algoritmia
 
 ## Ejercicio 8: Porcentajes, IVA e inversiones
 1. Escribir un algoritmo que calcula el precio con todos los impuestos incluidos (TII) para un precio sin impuestos y un porcentaje de IVA dado.  
